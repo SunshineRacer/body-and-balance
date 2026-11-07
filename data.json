@@ -4,387 +4,250 @@
       "title": "Beine & Po",
       "items": [
         {
-          "name": "Aufwärmen: lockeres Gehen",
-          "detail": "5 Min. · Laufband"
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
         },
         {
-          "name": "Kniebeugen zur Hantelbank (wie zum Stuhl)",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Beinstrecken an der Hantelbank (Leg Extension)*",
-          "detail": "2 × 10–12"
-        },
-        {
-          "name": "Seitliches Beinheben im Stehen",
-          "detail": "2 × 12 / Seite"
-        },
-        {
-          "name": "Wadenheben",
+          "name": "Enge Kniebeugen",
           "detail": "2 × 15"
+        },
+        {
+          "name": "Klassische Kniebeugen",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Breite Kniebeugen",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 20 je Bein"
         },
         {
           "name": "Beinbeugen im Stehen",
-          "detail": "2 × 12 / Seite"
+          "detail": "2 × 20 je Bein"
         },
         {
-          "name": "Kleine Glute Bridge",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Ausgehen",
-          "detail": "3 Min."
-        }
-      ]
-    },
-    "Dienstag": {
-      "title": "Oberkörper & unterer Rücken",
-      "items": [
-        {
-          "name": "Aufwärmen: lockeres Gehen",
-          "detail": "5 Min. · Laufband"
-        },
-        {
-          "name": "Brustdrücken mit Hanteln auf der Bank",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Knieliegestütze (nur wenn rückenverträglich)",
-          "detail": "2 × 6–10"
-        },
-        {
-          "name": "Bizepscurls",
-          "detail": "2 × 12"
-        },
-        {
-          "name": "Seitheben mit leichten Hanteln",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Brustgestütztes Rudern / abgestützte Alternative",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Trizepsstrecken",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Bird Dog, kleine kontrollierte Bewegung",
-          "detail": "2 × 6 / Seite"
-        },
-        {
-          "name": "Ausgehen",
-          "detail": "3 Min."
-        }
-      ]
-    },
-    "Mittwoch": {
-      "title": "Radfahren / aktive Erholung",
-      "items": [
-        {
-          "name": "Radfahren auf der Radrolle",
-          "detail": "15–25 Min. locker"
-        },
-        {
-          "name": "Optional: lockere Mobilisation",
-          "detail": "5 Min."
-        }
-      ]
-    },
-    "Donnerstag": {
-      "title": "Ganzkörper + extra Beine",
-      "items": [
-        {
-          "name": "Aufwärmen: lockeres Gehen",
-          "detail": "5 Min. · Laufband"
-        },
-        {
-          "name": "Kniebeugen zur Hantelbank",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Beinstrecken an der Hantelbank*",
-          "detail": "2 × 10–12"
-        },
-        {
-          "name": "Beinbeugen im Stehen (hintere Oberschenkel)",
-          "detail": "2 × 12 / Seite"
-        },
-        {
-          "name": "Brustdrücken mit Hanteln",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Abgestütztes Rudern",
-          "detail": "2 × 10"
-        },
-        {
-          "name": "Seitliches Beinheben",
-          "detail": "2 × 12 / Seite"
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 20 je Bein"
         },
         {
           "name": "Wadenheben",
           "detail": "2 × 15"
         },
         {
-          "name": "Bizepscurls",
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
           "detail": "2 × 12"
         },
         {
-          "name": "Kleine Glute Bridge",
+          "name": "Kurzhantel-Flys flach",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Bizepscurls mit Kurzhanteln",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Seitheben mit Kurzhanteln",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 15 je Seite"
+        },
+        {
+          "name": "Schulterdrücken über Kopf",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Liegestütze",
           "detail": "2 × 10"
-        }
-      ]
-    },
-    "Freitag": {
-      "title": "Laufband, Balance & Koordination",
-      "items": [
-        {
-          "name": "Gehen auf dem Laufband; Laufen erst bei guter Verträglichkeit",
-          "detail": "15–25 Min."
         },
         {
-          "name": "Balanceboard mit Haltemöglichkeit",
-          "detail": "3 × 20–30 Sek."
-        },
-        {
-          "name": "Einbeinstand mit Knieheben (mit Festhalten)",
-          "detail": "2 × 6 / Seite"
-        },
-        {
-          "name": "Kontrollierte Kniehebung und sanfte Hüftöffnung",
-          "detail": "2 × 5 / Seite"
-        },
-        {
-          "name": "Vibrationsplatte: nur freigegebene Einstellung**",
-          "detail": "kurz, nach Vorgabe"
-        }
-      ]
-    },
-    "Samstag": {
-      "title": "Radfahren & Geräte",
-      "items": [
-        {
-          "name": "Radfahren auf der Radrolle",
-          "detail": "15–30 Min. locker"
-        },
-        {
-          "name": "Optional: Balanceboard",
-          "detail": "3 × 20 Sek."
-        },
-        {
-          "name": "Vibrationsplatte: freigegebene Einstellung**",
-          "detail": "kurz, nach Vorgabe"
-        },
-        {
-          "name": "Hula-Hoop nur falls beschwerdefrei und geeignet",
-          "detail": "optional"
-        }
-      ]
-    },
-    "Sonntag": {
-      "title": "Regeneration",
-      "items": [
-        {
-          "name": "Trainingsfreier Tag",
-          "detail": "Erholung"
-        },
-        {
-          "name": "Optional: lockerer Spaziergang",
-          "detail": "nach Wohlbefinden"
-        }
-      ]
-    }
-  },
-  {
-    "Montag": {
-      "title": "Beine & Po",
-      "items": [
-        {
-          "name": "Aufwärmen: Gehen",
-          "detail": "5 Min. · Laufband"
-        },
-        {
-          "name": "Kniebeugen zur Bank / Box Squats",
-          "detail": "kontrolliert · ggf. Hanteln"
-        },
-        {
-          "name": "Beinstrecken am Beinaufsatz",
-          "detail": "Quadrizeps · leicht"
-        },
-        {
-          "name": "Hip Thrust an stabiler Bank ODER Glute Bridge",
-          "detail": "Po · nur schmerzfrei"
-        },
-        {
-          "name": "Seitliches Beinheben im Stehen",
-          "detail": "je Seite"
-        },
-        {
-          "name": "Beinbeugen am Beinaufsatz oder stehend",
-          "detail": "hintere Oberschenkel"
-        },
-        {
-          "name": "Wadenheben",
-          "detail": "12–15 Wdh."
-        },
-        {
-          "name": "Ausgehen",
-          "detail": "3 Min."
-        }
-      ]
-    },
-    "Dienstag": {
-      "title": "Brust, Arme, Schultern & Rumpf",
-      "items": [
-        {
-          "name": "Aufwärmen: Gehen",
-          "detail": "5 Min. · Laufband"
-        },
-        {
-          "name": "Schrägbank-Brustdrücken ODER flaches Brustdrücken",
-          "detail": "Hanteln · Bank"
-        },
-        {
-          "name": "Knieliegestütze",
-          "detail": "6–12 Wdh. · schmerzfrei"
-        },
-        {
-          "name": "Hammer-Curls",
-          "detail": "Hanteln · Arme"
-        },
-        {
-          "name": "Seitheben",
-          "detail": "leichte Hanteln"
-        },
-        {
-          "name": "Brustgestütztes Rudern ODER abgestütztes Rudern",
-          "detail": "oberer Rücken"
-        },
-        {
-          "name": "Trizeps-Kickbacks mit Abstützung",
-          "detail": "leichte Hanteln"
-        },
-        {
-          "name": "Bird Dog",
-          "detail": "6–10 / Seite, langsam"
-        },
-        {
-          "name": "Dead Bug: abwechselnd Ferse absetzen",
-          "detail": "6–10 / Seite"
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
         }
       ]
     },
     "Mittwoch": {
-      "title": "Radfahren / aktive Erholung",
+      "title": "Radfahren & Rumpf",
       "items": [
         {
-          "name": "Fahrrad auf der Radrolle",
-          "detail": "nach Wochenübersicht"
+          "name": "Radfahren auf der Rolle",
+          "detail": "20–30 Min."
         },
         {
-          "name": "Optional: leichte Mobilisation",
+          "name": "Beckenkippen im Stehen",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "2 × 10 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "2 × 10 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "2 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "10 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
           "detail": "5 Min."
         }
       ]
     },
     "Donnerstag": {
-      "title": "Ganzkörper + extra Oberschenkel",
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
       "items": [
         {
-          "name": "Aufwärmen: Gehen",
-          "detail": "5 Min. · Laufband"
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
         },
         {
-          "name": "Kniebeugen zur Bank",
-          "detail": "ggf. leichte Hanteln"
+          "name": "Kniebeugen",
+          "detail": "2 × 15"
         },
         {
-          "name": "Beinstrecken am Beinaufsatz",
-          "detail": "vordere Oberschenkel"
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 15 je Bein"
         },
         {
-          "name": "Beinbeugen am Beinaufsatz oder stehend",
-          "detail": "hintere Oberschenkel"
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 20 je Bein"
         },
         {
-          "name": "Glute Bridge mit kurzem Halt",
-          "detail": "Po · 2 Sek. oben"
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 20 je Bein"
         },
         {
-          "name": "Brust-Flys mit sehr leichten Hanteln ODER Brustdrücken",
-          "detail": "Bank · kontrolliert"
+          "name": "Glute Bridge",
+          "detail": "2 × 15"
         },
         {
-          "name": "Abgestütztes Rudern",
-          "detail": "Hanteln"
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
         },
         {
-          "name": "Schulterdrücken im Sitzen ODER Frontheben",
-          "detail": "ohne Rückenreizung"
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 12 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "2 × 12"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "Hanteln"
+          "detail": "2 × 15"
         },
         {
           "name": "Wadenheben",
-          "detail": "12–15 Wdh."
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
         }
       ]
     },
     "Freitag": {
-      "title": "Laufband, Balance & Koordination",
+      "title": "Laufband & Bauch",
       "items": [
         {
-          "name": "Gehen / ggf. Laufintervalle auf Laufband",
-          "detail": "nach Wochenübersicht"
+          "name": "Locker einlaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
         },
         {
-          "name": "Balanceboard, beidbeinig",
-          "detail": "nach Wochenübersicht"
+          "name": "Laufband: Tempowechsel",
+          "detail": "15–20 Min."
         },
         {
-          "name": "Einbeinstand mit kontrolliertem Knieheben",
-          "detail": "6–10 / Seite"
+          "name": "Locker auslaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
         },
         {
-          "name": "Hüftabduktion im Einbeinstand",
-          "detail": "8–12 / Seite"
+          "name": "Russian Twists",
+          "detail": "2 × 20"
         },
         {
-          "name": "Vibrationsplatte",
-          "detail": "freigegebene Einstellung"
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
         }
       ]
     },
     "Samstag": {
-      "title": "Radfahren & Geräte",
+      "title": "Radfahren",
       "items": [
         {
-          "name": "Radfahren auf der Radrolle",
-          "detail": "nach Wochenübersicht"
-        },
-        {
-          "name": "Balanceboard, kontrollierte Gewichtsverlagerung",
-          "detail": "3 × 30–45 Sek."
-        },
-        {
-          "name": "Vibrationsplatte",
-          "detail": "freigegebene Einstellung"
-        },
-        {
-          "name": "Optional: Hula-Hoop",
-          "detail": "nur wenn schmerzfrei"
+          "name": "Radfahren auf der Rolle",
+          "detail": "30–45 Min."
         }
       ]
     },
     "Sonntag": {
-      "title": "Regeneration",
+      "title": "Ruhetag",
       "items": [
         {
-          "name": "Trainingsfrei / lockerer Spaziergang nach Wunsch",
-          "detail": "Rückenprogramm wie gewohnt"
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
         }
       ]
     }
@@ -394,190 +257,3196 @@
       "title": "Beine & Po",
       "items": [
         {
-          "name": "Aufwärmen: lockeres Gehen",
-          "detail": "5 Min. · Laufband"
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
         },
         {
-          "name": "Kniebeugen zur Hantelbank / Box Squats",
-          "detail": "kontrolliert · ggf. Hanteln"
+          "name": "Enge Kniebeugen",
+          "detail": "2 × 17"
         },
         {
-          "name": "Beinstrecken am Beinaufsatz",
-          "detail": "vordere Oberschenkel"
+          "name": "Klassische Kniebeugen",
+          "detail": "2 × 17"
         },
         {
-          "name": "Hip Thrust ODER Glute Bridge",
-          "detail": "Po · nur schmerzfrei"
+          "name": "Breite Kniebeugen",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 22 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 22 je Bein"
         },
         {
           "name": "Seitliches Beinheben im Stehen",
-          "detail": "je Seite"
-        },
-        {
-          "name": "Beinbeugen am Beinaufsatz oder stehend",
-          "detail": "hintere Oberschenkel"
+          "detail": "2 × 22 je Bein"
         },
         {
           "name": "Wadenheben",
-          "detail": "12–20 Wiederholungen"
+          "detail": "2 × 17"
         },
         {
-          "name": "Ausgehen",
-          "detail": "3 Min."
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
         }
       ]
     },
     "Dienstag": {
-      "title": "Brust, Arme, Schultern & Rumpf",
+      "title": "Brust, Arme, Schultern & Rücken",
       "items": [
         {
-          "name": "Aufwärmen: lockeres Gehen",
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
           "detail": "5 Min."
         },
         {
-          "name": "Schrägbank- oder flaches Brustdrücken",
-          "detail": "Hanteln · Bank"
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "2 × 14"
         },
         {
-          "name": "Knieliegestütze",
-          "detail": "6–12 · rückenverträglich"
+          "name": "Kurzhantel-Flys flach",
+          "detail": "2 × 14"
         },
         {
-          "name": "Hammer-Curls",
-          "detail": "Hanteln"
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "2 × 14"
         },
         {
-          "name": "Seitheben",
-          "detail": "leichte Hanteln"
+          "name": "Reverse Flys",
+          "detail": "2 × 14"
         },
         {
-          "name": "Brustgestütztes oder abgestütztes Rudern",
-          "detail": "oberer Rücken"
+          "name": "Bizepscurls mit Kurzhanteln",
+          "detail": "2 × 17"
         },
         {
-          "name": "Trizeps-Kickbacks mit Abstützung",
-          "detail": "leichte Hanteln"
+          "name": "Hammer Curls",
+          "detail": "2 × 17"
         },
         {
-          "name": "Bird Dog",
-          "detail": "6–10 / Seite"
+          "name": "Seitheben mit Kurzhanteln",
+          "detail": "2 × 14"
         },
         {
-          "name": "Dead Bug: Ferse absetzen",
-          "detail": "6–10 / Seite"
+          "name": "Trizeps-Kickbacks",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 17 je Seite"
+        },
+        {
+          "name": "Schulterdrücken über Kopf",
+          "detail": "2 × 14"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
         }
       ]
     },
     "Mittwoch": {
-      "title": "Radfahren / aktive Erholung",
+      "title": "Radfahren & Rumpf",
       "items": [
         {
-          "name": "Fahrrad auf der Radrolle",
-          "detail": "Dauer nach Wochenübersicht"
+          "name": "Radfahren auf der Rolle",
+          "detail": "25–35 Min."
         },
         {
-          "name": "Optional: leichte Mobilisation",
+          "name": "Beckenkippen im Stehen",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "2 × 12 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "2 × 12 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "2 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "10 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 17 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 22 je Bein"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 22 je Bein"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 14 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "2 × 14"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband & Bauch",
+      "items": [
+        {
+          "name": "Locker einlaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
+        },
+        {
+          "name": "Laufband: Tempowechsel",
+          "detail": "20–25 Min."
+        },
+        {
+          "name": "Locker auslaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "2 × 22"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "2 × 17"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "35–50 Min."
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ruhetag",
+      "items": [
+        {
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Enge Kniebeugen",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Klassische Kniebeugen",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Breite Kniebeugen",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 24 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 24 je Bein"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 24 je Bein"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Kurzhantel-Flys flach",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Bizepscurls mit Kurzhanteln",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Seitheben mit Kurzhanteln",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 19 je Seite"
+        },
+        {
+          "name": "Schulterdrücken über Kopf",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "2 × 14"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpf",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "30–40 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "2 × 14 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "2 × 14 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "2 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "10 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 19 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 24 je Bein"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 24 je Bein"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 16 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband & Bauch",
+      "items": [
+        {
+          "name": "Locker einlaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
+        },
+        {
+          "name": "Laufband: Tempowechsel",
+          "detail": "25–30 Min."
+        },
+        {
+          "name": "Locker auslaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "2 × 24"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "2 × 19"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "40–55 Min."
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ruhetag",
+      "items": [
+        {
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Enge Kniebeugen",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Klassische Kniebeugen",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Breite Kniebeugen",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 26 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 26 je Bein"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 26 je Bein"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "2 × 18"
+        },
+        {
+          "name": "Kurzhantel-Flys flach",
+          "detail": "2 × 18"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "2 × 18"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "2 × 18"
+        },
+        {
+          "name": "Bizepscurls mit Kurzhanteln",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Seitheben mit Kurzhanteln",
+          "detail": "2 × 18"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 21 je Seite"
+        },
+        {
+          "name": "Schulterdrücken über Kopf",
+          "detail": "2 × 18"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "2 × 16"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpf",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "35–45 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "2 × 16 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "2 × 16 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "2 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "10 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Aufwärmen: Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "2 × 21 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 26 je Bein"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 26 je Bein"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "2 × 18 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "2 × 18"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband & Bauch",
+      "items": [
+        {
+          "name": "Locker einlaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
+        },
+        {
+          "name": "Laufband: Tempowechsel",
+          "detail": "30–35 Min."
+        },
+        {
+          "name": "Locker auslaufen",
+          "detail": "5 Min. (Teil der Laufbandzeit)"
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "2 × 26"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "2 × 21"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "2 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "45–60 Min."
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ruhetag",
+      "items": [
+        {
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 20 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 20 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 20 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 12 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 15 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpf",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "40–50 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 12 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 12 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 20 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 20 je Bein"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 20"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 15 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 20"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Aufwärmen, HIIT, Laufband & Bauch",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "10 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "10 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "10 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "10 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "10 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "10 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "35–40 Min."
+        },
+        {
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "50–65 Min. · gleichmäßig, moderat"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ruhetag",
+      "items": [
+        {
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 22 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 22 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 22 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 14 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 17 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpf",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "45–55 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 14 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 14 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 22 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 22 je Bein"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 22"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 17 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 22"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Aufwärmen, HIIT, Laufband & Bauch",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "12 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "12 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "12 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "12 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "12 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "12 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "40–45 Min."
+        },
+        {
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "55–70 Min. · gleichmäßig, moderat"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ruhetag",
+      "items": [
+        {
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 24 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 24 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 24 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 16 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 19 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpf",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "50–60 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 16 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 16 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 24 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 24 je Bein"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 24"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 19 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 24"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Aufwärmen, HIIT, Laufband & Bauch",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "15 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "15 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "15 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "15 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "15 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "15 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "45–50 Min."
+        },
+        {
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "60–75 Min. · gleichmäßig, moderat"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ruhetag",
+      "items": [
+        {
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 26 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 26 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 26 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 18 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 21 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpf",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "55–65 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 18 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 18 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 20 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 26 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 26 je Bein"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 26"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 21 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 26"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Aufwärmen, HIIT, Laufband & Bauch",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "20 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "20 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "20 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "20 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "20 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "20 Sek. Belastung / 20 Sek. Pause · 2 Durchgänge"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "50–55 Min."
+        },
+        {
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 30 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "65–80 Min. · gleichmäßig, moderat"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ruhetag",
+      "items": [
+        {
+          "name": "Regeneration / trainingsfrei",
+          "detail": "Keine Trainingseinheit"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 20 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 20 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 20 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 20"
+        },
+        {
+          "name": "Glute Bridge March",
+          "detail": "3 × 12 je Bein"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 12 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 15 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Frontheben mit Kurzhanteln",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Arme und Schultern lockern",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpfstabilität",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "60 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 12 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 12 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 30 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Vierfüßlerstand mit Knieanheben",
+          "detail": "3 × 10 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 25 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 25 je Bein"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 20"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 20"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 15 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 20"
+        },
+        {
+          "name": "Enge Kniebeugen",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband, HIIT & Bauchtraining",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "40 Min."
+        },
+        {
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 15"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 12"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren auf der Rolle",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "70–85 Min. · inklusive Ein- und Ausradeln"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ganzkörper leicht & Stretching",
+      "items": [
+        {
+          "name": "Locker gehen und mobilisieren",
           "detail": "5–10 Min."
+        },
+        {
+          "name": "Sanfte Ganzkörpermobilisation",
+          "detail": "10 Min."
+        },
+        {
+          "name": "Dehnung und Entspannung",
+          "detail": "10–15 Min."
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 22 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 22 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 22 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 22"
+        },
+        {
+          "name": "Glute Bridge March",
+          "detail": "3 × 14 je Bein"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 14 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 17 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Frontheben mit Kurzhanteln",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Arme und Schultern lockern",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpfstabilität",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "65 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 14 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 14 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 35 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Vierfüßlerstand mit Knieanheben",
+          "detail": "3 × 10 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
         }
       ]
     },
     "Donnerstag": {
-      "title": "Ganzkörper + extra Oberschenkel",
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
       "items": [
         {
-          "name": "Aufwärmen: lockeres Gehen",
+          "name": "Laufen auf der Stelle",
           "detail": "5 Min."
         },
         {
-          "name": "Kniebeugen zur Bank",
-          "detail": "ggf. leichte Hanteln"
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 17"
         },
         {
-          "name": "Beinstrecken am Beinaufsatz",
-          "detail": "vordere Oberschenkel"
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 27 je Bein"
         },
         {
-          "name": "Beinbeugen am Beinaufsatz oder stehend",
-          "detail": "hintere Oberschenkel"
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 27 je Bein"
         },
         {
-          "name": "Glute Bridge mit kurzem Halt",
-          "detail": "Po · 2 Sek. oben"
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 22"
         },
         {
-          "name": "Brustdrücken ODER leichte Brust-Flys",
-          "detail": "Bank · kontrolliert"
+          "name": "Glute Bridge",
+          "detail": "3 × 22"
         },
         {
-          "name": "Abgestütztes Rudern",
-          "detail": "Hanteln"
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
         },
         {
-          "name": "Schulterdrücken im Sitzen ODER Frontheben",
-          "detail": "nur ohne Rückenreizung"
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 17 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 14"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "Hanteln"
+          "detail": "3 × 17"
         },
         {
-          "name": "Wadenheben",
-          "detail": "12–20 Wiederholungen"
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 22"
+        },
+        {
+          "name": "Enge Kniebeugen",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
         }
       ]
     },
     "Freitag": {
-      "title": "Laufband, Balance & Koordination",
+      "title": "Laufband, HIIT & Bauchtraining",
       "items": [
         {
-          "name": "Gehen auf dem Laufband; Laufintervalle nur wenn verträglich",
-          "detail": "Dauer nach Wochenübersicht"
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
         },
         {
-          "name": "Balanceboard, beidbeinig",
-          "detail": "Dauer nach Wochenübersicht"
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
         },
         {
-          "name": "Einbeinstand mit Knieheben",
-          "detail": "6–10 / Seite · Halt möglich"
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "45 Min."
         },
         {
-          "name": "Hüftabduktion im Einbeinstand",
-          "detail": "8–12 / Seite · mit Halt"
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
         },
         {
-          "name": "Vibrationsplatte",
-          "detail": "freigegebene Einstellungen"
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 17"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 14"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
         }
       ]
     },
     "Samstag": {
-      "title": "Radfahren & Geräte",
+      "title": "Radfahren auf der Rolle",
       "items": [
         {
-          "name": "Fahrrad auf der Radrolle",
-          "detail": "Dauer nach Wochenübersicht"
-        },
-        {
-          "name": "Balanceboard: kontrollierte Gewichtsverlagerung",
-          "detail": "3 × 45–60 Sek."
-        },
-        {
-          "name": "Vibrationsplatte",
-          "detail": "freigegebene Einstellungen"
-        },
-        {
-          "name": "Optional: Hula-Hoop",
-          "detail": "nur wenn beschwerdefrei"
+          "name": "Radfahren auf der Rolle",
+          "detail": "85–95 Min. · inklusive Ein- und Ausradeln"
         }
       ]
     },
     "Sonntag": {
-      "title": "Regeneration",
+      "title": "Ganzkörper leicht & Stretching",
       "items": [
         {
-          "name": "Trainingsfrei / lockerer Spaziergang",
-          "detail": "Rückenprogramm wie gewohnt"
+          "name": "Locker gehen und mobilisieren",
+          "detail": "5–10 Min."
+        },
+        {
+          "name": "Sanfte Ganzkörpermobilisation",
+          "detail": "10 Min."
+        },
+        {
+          "name": "Dehnung und Entspannung",
+          "detail": "10–15 Min."
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 24 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 24 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 24 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 24"
+        },
+        {
+          "name": "Glute Bridge March",
+          "detail": "3 × 16 je Bein"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 16 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 19 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Frontheben mit Kurzhanteln",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Arme und Schultern lockern",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpfstabilität",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "70 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 16 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 16 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 40 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Vierfüßlerstand mit Knieanheben",
+          "detail": "3 × 10 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 29 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 29 je Bein"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 24"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 24"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 19 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 24"
+        },
+        {
+          "name": "Enge Kniebeugen",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband, HIIT & Bauchtraining",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "50 Min."
+        },
+        {
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 19"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 16"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren auf der Rolle",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "95–110 Min. · inklusive Ein- und Ausradeln"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ganzkörper leicht & Stretching",
+      "items": [
+        {
+          "name": "Locker gehen und mobilisieren",
+          "detail": "5–10 Min."
+        },
+        {
+          "name": "Sanfte Ganzkörpermobilisation",
+          "detail": "10 Min."
+        },
+        {
+          "name": "Dehnung und Entspannung",
+          "detail": "10–15 Min."
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 26 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 26 je Bein"
+        },
+        {
+          "name": "Hip Thrust auf der Hantelbank",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Seitliches Beinheben in Seitenlage",
+          "detail": "3 × 26 je Seite"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 26"
+        },
+        {
+          "name": "Glute Bridge March",
+          "detail": "3 × 18 je Bein"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rücken",
+      "items": [
+        {
+          "name": "Arme/Schultern lockern, BWS mobilisieren",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Kurzhantel-Flys positiv",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Kurzhantel-Flys negativ",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Reverse Flys",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Konzentrationscurls",
+          "detail": "3 × 18 je Arm"
+        },
+        {
+          "name": "Hammer Curls",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Kurzhantel-Seitheben",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 21 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken über Kopf",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Liegestütze",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Frontheben mit Kurzhanteln",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Arme und Schultern lockern",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren & Rumpfstabilität",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "75 Min."
+        },
+        {
+          "name": "Beckenkippen im Stehen",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "3 × 18 je Seite"
+        },
+        {
+          "name": "Dead Bug",
+          "detail": "3 × 18 je Seite"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Seitstütz auf den Knien",
+          "detail": "3 × 45 Sek. je Seite"
+        },
+        {
+          "name": "Cat & Cow",
+          "detail": "15 Wiederholungen"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Vierfüßlerstand mit Knieanheben",
+          "detail": "3 × 10 Sek."
+        },
+        {
+          "name": "Sanft dehnen und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper mit Schwerpunkt Oberschenkel",
+      "items": [
+        {
+          "name": "Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen mit Kurzhanteln",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einbeiniges Beinstrecken",
+          "detail": "3 × 31 je Bein"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "3 × 31 je Bein"
+        },
+        {
+          "name": "Sumo-Kniebeugen mit Kurzhantel",
+          "detail": "3 × 26"
+        },
+        {
+          "name": "Glute Bridge",
+          "detail": "3 × 26"
+        },
+        {
+          "name": "Wandsitz",
+          "detail": "3 × 40 Sek."
+        },
+        {
+          "name": "Kurzhantel-Bankdrücken",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Einarmiges Kurzhantelrudern",
+          "detail": "3 × 21 je Seite"
+        },
+        {
+          "name": "Kurzhantel-Schulterdrücken",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Wadenheben mit Kurzhanteln",
+          "detail": "3 × 26"
+        },
+        {
+          "name": "Enge Kniebeugen",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "3–5 Min."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband, HIIT & Bauchtraining",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen oder Laufen auf der Stelle",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: lockeres Einlaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Laufband: Laufen mit Tempowechsel",
+          "detail": "55 Min."
+        },
+        {
+          "name": "Laufband: lockeres Auslaufen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "HIIT: Step Jacks ohne Springen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Kniebeugen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Schnelle Boxbewegungen im Stehen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Stehendes Knieheben im Wechsel",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Liegestütze",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Seitliche Schritte mit Armbewegungen",
+          "detail": "2 × 20 Sek. Belastung / 40 Sek. Pause"
+        },
+        {
+          "name": "HIIT: Rundenpause",
+          "detail": "60 Sek. zwischen den 2 Durchgängen"
+        },
+        {
+          "name": "Russian Twists",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Gestreckte Beine heben und senken",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Sit-ups",
+          "detail": "3 × 21"
+        },
+        {
+          "name": "Unterarmstütz (Plank)",
+          "detail": "3 × 60 Sek."
+        },
+        {
+          "name": "Reverse Crunches",
+          "detail": "3 × 18"
+        },
+        {
+          "name": "Lockern und mobilisieren",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren auf der Rolle",
+      "items": [
+        {
+          "name": "Radfahren auf der Rolle",
+          "detail": "105–120 Min. · inklusive Ein- und Ausradeln"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Ganzkörper leicht & Stretching",
+      "items": [
+        {
+          "name": "Locker gehen und mobilisieren",
+          "detail": "5–10 Min."
+        },
+        {
+          "name": "Sanfte Ganzkörpermobilisation",
+          "detail": "10 Min."
+        },
+        {
+          "name": "Dehnung und Entspannung",
+          "detail": "10–15 Min."
         }
       ]
     }

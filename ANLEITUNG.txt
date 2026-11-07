@@ -1,8 +1,21 @@
-BODY & BALANCE – ERSTE VERSION
+BODY & BALANCE – KALENDER, TAGEBUCH UND AUSDAUER
 
-1. Auf dem Mac: index.html in Safari öffnen und testen.
-2. Auf dem iPhone: Für eine installierbare App den gesamten Ordner auf einen HTTPS-Webhost hochladen (z. B. GitHub Pages oder Netlify).
-3. Dann die HTTPS-Adresse in Safari öffnen und über Teilen > Zum Home-Bildschirm hinzufügen installieren.
-4. Unter „Mehr“ regelmäßig eine Datensicherung exportieren.
+1. ZIP entpacken, Body-and-Balance/index.html im Browser öffnen.
+2. Kalender: zwischen Monats- und Wochenansicht wechseln, Tage antippen, zusätzliche Aktivitäten eintragen oder ein Training auf einen anderen Tag verschieben.
+3. Training: unter dem Übungsplan das freiwillige Trainingstagebuch ausfüllen. Lauf- und Radfahrzeit sowie Kilometer getrennt erfassen. Die Durchschnittsgeschwindigkeit wird im Verlauf berechnet.
+4. Verlauf: Wochen- oder Gesamtübersicht für die Ausdauer wählen. Die bisherige Fortschrittsübersicht bleibt erhalten.
+5. Hantelgewichte werden nicht erfasst.
+6. HIIT und weitere Timer sowie das separate Rückenprogramm bleiben enthalten.
 
-WICHTIG: Das Rückenprogramm enthält zunächst Platzhalter. Die Ganzkörperübungen stammen aus den bereitgestellten Trainingsplänen.
+WICHTIG: Vor dem Umstieg in der alten App unter „Mehr“ eine Sicherung exportieren. Lokale Browserdaten sind von der verwendeten Adresse und dem Browser abhängig; die neue Datei kann daher einen leeren Stand anzeigen. In diesem Fall die Sicherung unter „Mehr“ importieren.
+
+Die App ist lokal nutzbar. Für die iPhone-Installation als Web-App muss sie über HTTPS bereitgestellt werden. Timer-Signale können im Hintergrund eingeschränkt sein.
+
+NEU – KÖRPERANALYSE / FITDAYS
+- Unter „Körper“ alle 21 Fitdays-Werte wöchentlich manuell eintragen.
+- Messdatum auswählen; frühere Messungen können nachgetragen, bearbeitet oder gelöscht werden.
+- Die App zeigt die Differenz zur vorherigen und zur ersten Messung und Diagramme für jeden numerischen Wert (gesamter Verlauf / letzte 12 Wochen).
+- Die Daten sind Bestandteil der Sicherung unter „Mehr“; vor dem Umstieg alte Sicherung exportieren.
+- Es gibt keine automatische Verbindung zu Fitdays. Körperzusammensetzungswerte sind Schätzwerte.
+
+Trainingsplan: Alle 12 Wochen sind hinterlegt. Wochen 9–12: Laufband vor HIIT (20 Sekunden Belastung / 40 Sekunden Pause), Plank bis 60 Sekunden, Radfahren am Samstag bis 120 Minuten; Sonntag leichte Mobilisation und Dehnung.
