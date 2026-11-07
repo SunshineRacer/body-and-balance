@@ -1,0 +1,585 @@
+[
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen",
+          "detail": "5 Min. · Laufband"
+        },
+        {
+          "name": "Kniebeugen zur Hantelbank (wie zum Stuhl)",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Beinstrecken an der Hantelbank (Leg Extension)*",
+          "detail": "2 × 10–12"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "2 × 12 / Seite"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Beinbeugen im Stehen",
+          "detail": "2 × 12 / Seite"
+        },
+        {
+          "name": "Kleine Glute Bridge",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Ausgehen",
+          "detail": "3 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Oberkörper & unterer Rücken",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen",
+          "detail": "5 Min. · Laufband"
+        },
+        {
+          "name": "Brustdrücken mit Hanteln auf der Bank",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Knieliegestütze (nur wenn rückenverträglich)",
+          "detail": "2 × 6–10"
+        },
+        {
+          "name": "Bizepscurls",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Seitheben mit leichten Hanteln",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Brustgestütztes Rudern / abgestützte Alternative",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Trizepsstrecken",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Bird Dog, kleine kontrollierte Bewegung",
+          "detail": "2 × 6 / Seite"
+        },
+        {
+          "name": "Ausgehen",
+          "detail": "3 Min."
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren / aktive Erholung",
+      "items": [
+        {
+          "name": "Radfahren auf der Radrolle",
+          "detail": "15–25 Min. locker"
+        },
+        {
+          "name": "Optional: lockere Mobilisation",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper + extra Beine",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen",
+          "detail": "5 Min. · Laufband"
+        },
+        {
+          "name": "Kniebeugen zur Hantelbank",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Beinstrecken an der Hantelbank*",
+          "detail": "2 × 10–12"
+        },
+        {
+          "name": "Beinbeugen im Stehen (hintere Oberschenkel)",
+          "detail": "2 × 12 / Seite"
+        },
+        {
+          "name": "Brustdrücken mit Hanteln",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Abgestütztes Rudern",
+          "detail": "2 × 10"
+        },
+        {
+          "name": "Seitliches Beinheben",
+          "detail": "2 × 12 / Seite"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "2 × 15"
+        },
+        {
+          "name": "Bizepscurls",
+          "detail": "2 × 12"
+        },
+        {
+          "name": "Kleine Glute Bridge",
+          "detail": "2 × 10"
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband, Balance & Koordination",
+      "items": [
+        {
+          "name": "Gehen auf dem Laufband; Laufen erst bei guter Verträglichkeit",
+          "detail": "15–25 Min."
+        },
+        {
+          "name": "Balanceboard mit Haltemöglichkeit",
+          "detail": "3 × 20–30 Sek."
+        },
+        {
+          "name": "Einbeinstand mit Knieheben (mit Festhalten)",
+          "detail": "2 × 6 / Seite"
+        },
+        {
+          "name": "Kontrollierte Kniehebung und sanfte Hüftöffnung",
+          "detail": "2 × 5 / Seite"
+        },
+        {
+          "name": "Vibrationsplatte: nur freigegebene Einstellung**",
+          "detail": "kurz, nach Vorgabe"
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren & Geräte",
+      "items": [
+        {
+          "name": "Radfahren auf der Radrolle",
+          "detail": "15–30 Min. locker"
+        },
+        {
+          "name": "Optional: Balanceboard",
+          "detail": "3 × 20 Sek."
+        },
+        {
+          "name": "Vibrationsplatte: freigegebene Einstellung**",
+          "detail": "kurz, nach Vorgabe"
+        },
+        {
+          "name": "Hula-Hoop nur falls beschwerdefrei und geeignet",
+          "detail": "optional"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Regeneration",
+      "items": [
+        {
+          "name": "Trainingsfreier Tag",
+          "detail": "Erholung"
+        },
+        {
+          "name": "Optional: lockerer Spaziergang",
+          "detail": "nach Wohlbefinden"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Aufwärmen: Gehen",
+          "detail": "5 Min. · Laufband"
+        },
+        {
+          "name": "Kniebeugen zur Bank / Box Squats",
+          "detail": "kontrolliert · ggf. Hanteln"
+        },
+        {
+          "name": "Beinstrecken am Beinaufsatz",
+          "detail": "Quadrizeps · leicht"
+        },
+        {
+          "name": "Hip Thrust an stabiler Bank ODER Glute Bridge",
+          "detail": "Po · nur schmerzfrei"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "je Seite"
+        },
+        {
+          "name": "Beinbeugen am Beinaufsatz oder stehend",
+          "detail": "hintere Oberschenkel"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "12–15 Wdh."
+        },
+        {
+          "name": "Ausgehen",
+          "detail": "3 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rumpf",
+      "items": [
+        {
+          "name": "Aufwärmen: Gehen",
+          "detail": "5 Min. · Laufband"
+        },
+        {
+          "name": "Schrägbank-Brustdrücken ODER flaches Brustdrücken",
+          "detail": "Hanteln · Bank"
+        },
+        {
+          "name": "Knieliegestütze",
+          "detail": "6–12 Wdh. · schmerzfrei"
+        },
+        {
+          "name": "Hammer-Curls",
+          "detail": "Hanteln · Arme"
+        },
+        {
+          "name": "Seitheben",
+          "detail": "leichte Hanteln"
+        },
+        {
+          "name": "Brustgestütztes Rudern ODER abgestütztes Rudern",
+          "detail": "oberer Rücken"
+        },
+        {
+          "name": "Trizeps-Kickbacks mit Abstützung",
+          "detail": "leichte Hanteln"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "6–10 / Seite, langsam"
+        },
+        {
+          "name": "Dead Bug: abwechselnd Ferse absetzen",
+          "detail": "6–10 / Seite"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren / aktive Erholung",
+      "items": [
+        {
+          "name": "Fahrrad auf der Radrolle",
+          "detail": "nach Wochenübersicht"
+        },
+        {
+          "name": "Optional: leichte Mobilisation",
+          "detail": "5 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper + extra Oberschenkel",
+      "items": [
+        {
+          "name": "Aufwärmen: Gehen",
+          "detail": "5 Min. · Laufband"
+        },
+        {
+          "name": "Kniebeugen zur Bank",
+          "detail": "ggf. leichte Hanteln"
+        },
+        {
+          "name": "Beinstrecken am Beinaufsatz",
+          "detail": "vordere Oberschenkel"
+        },
+        {
+          "name": "Beinbeugen am Beinaufsatz oder stehend",
+          "detail": "hintere Oberschenkel"
+        },
+        {
+          "name": "Glute Bridge mit kurzem Halt",
+          "detail": "Po · 2 Sek. oben"
+        },
+        {
+          "name": "Brust-Flys mit sehr leichten Hanteln ODER Brustdrücken",
+          "detail": "Bank · kontrolliert"
+        },
+        {
+          "name": "Abgestütztes Rudern",
+          "detail": "Hanteln"
+        },
+        {
+          "name": "Schulterdrücken im Sitzen ODER Frontheben",
+          "detail": "ohne Rückenreizung"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "Hanteln"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "12–15 Wdh."
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband, Balance & Koordination",
+      "items": [
+        {
+          "name": "Gehen / ggf. Laufintervalle auf Laufband",
+          "detail": "nach Wochenübersicht"
+        },
+        {
+          "name": "Balanceboard, beidbeinig",
+          "detail": "nach Wochenübersicht"
+        },
+        {
+          "name": "Einbeinstand mit kontrolliertem Knieheben",
+          "detail": "6–10 / Seite"
+        },
+        {
+          "name": "Hüftabduktion im Einbeinstand",
+          "detail": "8–12 / Seite"
+        },
+        {
+          "name": "Vibrationsplatte",
+          "detail": "freigegebene Einstellung"
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren & Geräte",
+      "items": [
+        {
+          "name": "Radfahren auf der Radrolle",
+          "detail": "nach Wochenübersicht"
+        },
+        {
+          "name": "Balanceboard, kontrollierte Gewichtsverlagerung",
+          "detail": "3 × 30–45 Sek."
+        },
+        {
+          "name": "Vibrationsplatte",
+          "detail": "freigegebene Einstellung"
+        },
+        {
+          "name": "Optional: Hula-Hoop",
+          "detail": "nur wenn schmerzfrei"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Regeneration",
+      "items": [
+        {
+          "name": "Trainingsfrei / lockerer Spaziergang nach Wunsch",
+          "detail": "Rückenprogramm wie gewohnt"
+        }
+      ]
+    }
+  },
+  {
+    "Montag": {
+      "title": "Beine & Po",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen",
+          "detail": "5 Min. · Laufband"
+        },
+        {
+          "name": "Kniebeugen zur Hantelbank / Box Squats",
+          "detail": "kontrolliert · ggf. Hanteln"
+        },
+        {
+          "name": "Beinstrecken am Beinaufsatz",
+          "detail": "vordere Oberschenkel"
+        },
+        {
+          "name": "Hip Thrust ODER Glute Bridge",
+          "detail": "Po · nur schmerzfrei"
+        },
+        {
+          "name": "Seitliches Beinheben im Stehen",
+          "detail": "je Seite"
+        },
+        {
+          "name": "Beinbeugen am Beinaufsatz oder stehend",
+          "detail": "hintere Oberschenkel"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "12–20 Wiederholungen"
+        },
+        {
+          "name": "Ausgehen",
+          "detail": "3 Min."
+        }
+      ]
+    },
+    "Dienstag": {
+      "title": "Brust, Arme, Schultern & Rumpf",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Schrägbank- oder flaches Brustdrücken",
+          "detail": "Hanteln · Bank"
+        },
+        {
+          "name": "Knieliegestütze",
+          "detail": "6–12 · rückenverträglich"
+        },
+        {
+          "name": "Hammer-Curls",
+          "detail": "Hanteln"
+        },
+        {
+          "name": "Seitheben",
+          "detail": "leichte Hanteln"
+        },
+        {
+          "name": "Brustgestütztes oder abgestütztes Rudern",
+          "detail": "oberer Rücken"
+        },
+        {
+          "name": "Trizeps-Kickbacks mit Abstützung",
+          "detail": "leichte Hanteln"
+        },
+        {
+          "name": "Bird Dog",
+          "detail": "6–10 / Seite"
+        },
+        {
+          "name": "Dead Bug: Ferse absetzen",
+          "detail": "6–10 / Seite"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "title": "Radfahren / aktive Erholung",
+      "items": [
+        {
+          "name": "Fahrrad auf der Radrolle",
+          "detail": "Dauer nach Wochenübersicht"
+        },
+        {
+          "name": "Optional: leichte Mobilisation",
+          "detail": "5–10 Min."
+        }
+      ]
+    },
+    "Donnerstag": {
+      "title": "Ganzkörper + extra Oberschenkel",
+      "items": [
+        {
+          "name": "Aufwärmen: lockeres Gehen",
+          "detail": "5 Min."
+        },
+        {
+          "name": "Kniebeugen zur Bank",
+          "detail": "ggf. leichte Hanteln"
+        },
+        {
+          "name": "Beinstrecken am Beinaufsatz",
+          "detail": "vordere Oberschenkel"
+        },
+        {
+          "name": "Beinbeugen am Beinaufsatz oder stehend",
+          "detail": "hintere Oberschenkel"
+        },
+        {
+          "name": "Glute Bridge mit kurzem Halt",
+          "detail": "Po · 2 Sek. oben"
+        },
+        {
+          "name": "Brustdrücken ODER leichte Brust-Flys",
+          "detail": "Bank · kontrolliert"
+        },
+        {
+          "name": "Abgestütztes Rudern",
+          "detail": "Hanteln"
+        },
+        {
+          "name": "Schulterdrücken im Sitzen ODER Frontheben",
+          "detail": "nur ohne Rückenreizung"
+        },
+        {
+          "name": "Trizeps-Kickbacks",
+          "detail": "Hanteln"
+        },
+        {
+          "name": "Wadenheben",
+          "detail": "12–20 Wiederholungen"
+        }
+      ]
+    },
+    "Freitag": {
+      "title": "Laufband, Balance & Koordination",
+      "items": [
+        {
+          "name": "Gehen auf dem Laufband; Laufintervalle nur wenn verträglich",
+          "detail": "Dauer nach Wochenübersicht"
+        },
+        {
+          "name": "Balanceboard, beidbeinig",
+          "detail": "Dauer nach Wochenübersicht"
+        },
+        {
+          "name": "Einbeinstand mit Knieheben",
+          "detail": "6–10 / Seite · Halt möglich"
+        },
+        {
+          "name": "Hüftabduktion im Einbeinstand",
+          "detail": "8–12 / Seite · mit Halt"
+        },
+        {
+          "name": "Vibrationsplatte",
+          "detail": "freigegebene Einstellungen"
+        }
+      ]
+    },
+    "Samstag": {
+      "title": "Radfahren & Geräte",
+      "items": [
+        {
+          "name": "Fahrrad auf der Radrolle",
+          "detail": "Dauer nach Wochenübersicht"
+        },
+        {
+          "name": "Balanceboard: kontrollierte Gewichtsverlagerung",
+          "detail": "3 × 45–60 Sek."
+        },
+        {
+          "name": "Vibrationsplatte",
+          "detail": "freigegebene Einstellungen"
+        },
+        {
+          "name": "Optional: Hula-Hoop",
+          "detail": "nur wenn beschwerdefrei"
+        }
+      ]
+    },
+    "Sonntag": {
+      "title": "Regeneration",
+      "items": [
+        {
+          "name": "Trainingsfrei / lockerer Spaziergang",
+          "detail": "Rückenprogramm wie gewohnt"
+        }
+      ]
+    }
+  }
+]

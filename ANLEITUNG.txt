@@ -1,0 +1,8 @@
+BODY & BALANCE – ERSTE VERSION
+
+1. Auf dem Mac: index.html in Safari öffnen und testen.
+2. Auf dem iPhone: Für eine installierbare App den gesamten Ordner auf einen HTTPS-Webhost hochladen (z. B. GitHub Pages oder Netlify).
+3. Dann die HTTPS-Adresse in Safari öffnen und über Teilen > Zum Home-Bildschirm hinzufügen installieren.
+4. Unter „Mehr“ regelmäßig eine Datensicherung exportieren.
+
+WICHTIG: Das Rückenprogramm enthält zunächst Platzhalter. Die Ganzkörperübungen stammen aus den bereitgestellten Trainingsplänen.
