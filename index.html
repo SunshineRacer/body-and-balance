@@ -740,23 +740,32 @@ async function nutLoadScannerLibrary(){
 }
 async function nutStartCamera(){
  nutStopCamera();nutScanBusy=false;
- if(!navigator.mediaDevices?.getUserMedia){nutScanMessage('Kamera nicht verfügbar. Bitte die App über HTTPS öffnen oder Barcode eingeben.');return}
+ if(!navigator.mediaDevices?.getUserMedia){nutScanMessage('Kamera nicht verfügbar. Bitte die HTTPS-Webseite öffnen.');return}
  const box=el('nutCameraBox'),video=el('nutCameraVideo');if(!box||!video)return;
  try{
-  nutScanMessage('Barcode-Scanner wird geladen …');await nutLoadScannerLibrary();
+  nutScanMessage('Barcode-Erkennung wird geladen …');
+  await nutLoadScannerLibrary();
   box.hidden=false;video.hidden=true;video.style.display='none';
   let holder=document.getElementById('nutFallbackCamera');
   if(!holder){holder=document.createElement('div');holder.id='nutFallbackCamera';box.insertBefore(holder,video)}
   holder.hidden=false;
-  const formats=[Html5QrcodeSupportedFormats.EAN_13,Html5QrcodeSupportedFormats.EAN_8,Html5QrcodeSupportedFormats.UPC_A,Html5QrcodeSupportedFormats.UPC_E];
-  nutFallbackScanner=new Html5Qrcode('nutFallbackCamera',{formatsToSupport:formats,verbose:false});
-  await nutFallbackScanner.start({facingMode:'environment'},{fps:12,qrbox:(w,h)=>({width:Math.max(60,Math.floor(Math.min(w*.85,h*.85))),height:Math.max(40,Math.floor(Math.min(h*.35,w*.45)))})},async decoded=>{
-   if(nutScanBusy)return;const code=String(decoded||'').replace(/\D/g,'');if(!/^\d{8,14}$/.test(code))return;
+  const formats=[Html5QrcodeSupportedFormats.EAN_13,Html5QrcodeSupportedFormats.EAN_8,Html5QrcodeSupportedFormats.UPC_A,Html5QrcodeSupportedFormats.UPC_E,Html5QrcodeSupportedFormats.CODE_128];
+  const scanner=new Html5Qrcode('nutFallbackCamera',{formatsToSupport:formats,verbose:false,useBarCodeDetectorIfSupported:false});
+  nutFallbackScanner=scanner;
+  let misses=0;
+  await scanner.start({facingMode:'environment'},{fps:10,aspectRatio:1.777778},async decoded=>{
+   if(nutScanBusy)return;
+   const code=String(decoded||'').replace(/\D/g,'');
+   if(!/^\d{8,14}$/.test(code)){nutScanMessage('Code erkannt, aber kein gültiger Produktbarcode: '+String(decoded).slice(0,35));return}
    nutScanBusy=true;const field=el('nutBarcode');if(field)field.value=code;
-   nutStopCamera();await nutLookupBarcode(code);nutScanBusy=false;
-  },()=>{});
-  nutScanMessage('Barcode waagerecht und vollständig in den Kamerabereich halten. Für gute Beleuchtung sorgen.');
- }catch(err){nutStopCamera();nutScanMessage('Scanner konnte nicht gestartet werden: '+(err.message||'Kameraberechtigung prüfen')+'. Barcode kann auch eingetippt werden.')}
+   nutScanMessage('Barcode '+code+' erkannt – Produkt wird gesucht …');
+   await nutLookupBarcode(code);nutScanBusy=false;
+  },error=>{
+   misses++;
+   if(misses===80)nutScanMessage('Noch kein Barcode erkannt. Bitte die Rückkamera auf den gesamten Strichcode richten, etwas Abstand halten und auf gute Beleuchtung achten.');
+  });
+  nutScanMessage('Scanner aktiv. Den gesamten Strichcode quer und scharf ins Kamerabild halten.');
+ }catch(err){nutStopCamera();nutScanMessage('Scannerfehler: '+(err?.message||String(err))+'. Alternativ Barcode eintippen.');}
 }
 
 function nutRefresh(){save();renderNutrition();renderProfile();if(tab==='today')render()}
