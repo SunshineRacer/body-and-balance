@@ -529,7 +529,7 @@ function recipeNutrientOf(p){let n=p.nutriments||{};return {kcal:n['energy-kcal_
 function recipeSum(items){let sums={};for(const k of recipeNutrientFields){let valid=true,total=0;for(const item of items){let v=item.per100?.[k];if(v===undefined||v===null||v===''){valid=false;continue}total+=Number(v)*Number(item.grams)/100} sums[k]=valid?Math.round(total*100)/100:null}return sums}
 function recipeFmt(v){return v==null?'Keine Angabe':nfmt(v)}
 function recipeRenderDraft(){let list=el('recipeIngredientList'),summary=el('recipeNutrientSummary');if(!list)return;list.innerHTML=recipeDraftIngredients.map((x,i)=>`<div class="recipe-ingredient-line"><strong>${esc(x.name)}</strong><label><input type="number" min="1" max="100000" step="1" value="${x.grams}" data-recipe-grams="${i}" aria-label="Gramm für ${esc(x.name)}"> g</label><button type="button" class="mini" data-recipe-remove="${i}">Entfernen</button></div>`).join('');let n=recipeSum(recipeDraftIngredients);let weight=Number(el('recipeFinishedGrams')?.value)||0;summary.innerHTML=recipeDraftIngredients.length?`<strong>Gesamtes Rezept (Zutaten)</strong><br>${recipeNutrientFields.map(k=>({kcal:'Kalorien',protein:'Eiweiß',carbs:'Kohlenhydrate',fat:'Fett',fiber:'Ballaststoffe',sugar:'Gesamtzucker'}[k]+': '+recipeFmt(n[k])+(k==='kcal'?' kcal':' g'))).join(' · ')}${weight>0?`<br><strong>Je 100 g fertiges Gericht:</strong> ${recipeNutrientFields.map(k=>recipeFmt(n[k]==null?null:n[k]*100/weight)+(k==='kcal'?' kcal':' g')).join(' · ')}`:''}`:'Noch keine Zutaten ausgewählt.'}
-async function recipeFoodSearch(){const q=(el('recipeFoodQuery')?.value||'').trim(),seq=++recipeFoodSearchSeq,box=el('recipeFoodResults');if(!box)return;recipeFoodResults=nutSavedMatches(q);recipeShowFoodResults('Lokale Treffer');if(q.length<2)return;box.insertAdjacentHTML('beforeend','<p class="muted">Online-Suche läuft …</p>');const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),12000);try{const url='https://world.openfoodfacts.org/cgi/search.pl?search_terms='+encodeURIComponent(q)+'&search_simple=1&action=process&json=1&page_size=25&fields=code,product_name,brands,nutriments';let response;try{response=await fetch(url,{signal:controller.signal}) ;if(!response.ok)throw Error('Online-Fehler')}catch(e){if(controller.signal.aborted)throw e;response=await fetch('https://search.openfoodfacts.org/search?q='+encodeURIComponent(q)+'&page_size=25',{signal:controller.signal});if(!response.ok)throw Error('Online-Fehler')}let data=await response.json();if(seq!==recipeFoodSearchSeq)return;let seen=new Set(recipeFoodResults.map(nutKey));for(let x of data.products||[]){if(!x.product_name||!x.nutriments)continue;let key=nutKey(x);if(!seen.has(key)){seen.add(key);recipeFoodResults.push(x)}}recipeShowFoodResults('Lokale und Online-Treffer')}catch(e){if(seq===recipeFoodSearchSeq)recipeShowFoodResults('Online-Suche nicht erreichbar; lokale Lebensmittel bleiben verfügbar.')}finally{clearTimeout(timer)}}
+async function recipeFoodSearch(){const q=(el('recipeFoodQuery')?.value||'').trim(),seq=++recipeFoodSearchSeq,box=el('recipeFoodResults');if(!box)return;recipeFoodResults=nutSavedMatches(q);recipeShowFoodResults('Lokale Treffer');if(q.length<2)return;box.insertAdjacentHTML('beforeend','<p class="muted">Online-Suche läuft …</p>');const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),12000);try{const url='https://world.openfoodfacts.org/api/v2/search?search_terms='+encodeURIComponent(q)+'&page_size=25&fields=code,product_name,brands,nutriments';let response;try{response=await fetch(url,{signal:controller.signal}) ;if(!response.ok)throw Error('Online-Fehler')}catch(e){if(controller.signal.aborted)throw e;response=await fetch('https://world.openfoodfacts.org/cgi/search.pl?search_terms='+encodeURIComponent(q)+'&page_size=25',{signal:controller.signal});if(!response.ok)throw Error('Online-Fehler')}let data=await response.json();if(seq!==recipeFoodSearchSeq)return;let seen=new Set(recipeFoodResults.map(nutKey));for(let x of data.products||[]){if(!x.product_name||!x.nutriments)continue;let key=nutKey(x);if(!seen.has(key)){seen.add(key);recipeFoodResults.push(x)}}recipeShowFoodResults('Lokale und Online-Treffer')}catch(e){if(seq===recipeFoodSearchSeq)recipeShowFoodResults('Online-Suche nicht erreichbar; lokale Lebensmittel bleiben verfügbar.')}finally{clearTimeout(timer)}}
 function recipeShowFoodResults(note){let box=el('recipeFoodResults');if(!box)return;box.innerHTML=`<small>${esc(note)}</small>`+recipeFoodResults.slice(0,30).map((p,i)=>`<div class="recipe-search-hit"><span><strong>${esc(p.product_name)}</strong><small>${esc(p.brands||'Grundnahrungsmittel')} · je 100 g</small></span><button type="button" class="mini" data-recipe-food="${i}">Hinzufügen</button></div>`).join('')}
 
 const nval=id=>document.getElementById(id)?.value;
@@ -679,7 +679,7 @@ async function nutSearch(extended=false){
  if(q.length<2){nutShowResults(matches,'Mindestens 2 Buchstaben für die Online-Suche eingeben.');return}
  const page=extended?nutSearchPage+1:1;
  // Den zuvor funktionierenden Open-Food-Facts-Aufruf mit 25 Treffern beibehalten.
- const url='https://world.openfoodfacts.org/cgi/search.pl?search_terms='+encodeURIComponent(q)+'&search_simple=1&action=process&json=1&page_size=25'+(page>1?'&page='+page:'')+'&fields=code,product_name,brands,nutriments,quantity';
+ const url='https://world.openfoodfacts.org/api/v2/search?search_terms='+encodeURIComponent(q)+'&page_size=25'+(page>1?'&page='+page:'')+'&fields=code,product_name,brands,nutriments,quantity';
  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),12000);
  try{
   let data;
@@ -689,7 +689,7 @@ async function nutSearch(extended=false){
    data=await res.json();
   } catch(primaryError) {
    if(controller.signal.aborted)throw primaryError;
-   const backup='https://search.openfoodfacts.org/search?q='+encodeURIComponent(q)+'&page_size=25&page='+page;
+   const backup='https://world.openfoodfacts.org/cgi/search.pl?search_terms='+encodeURIComponent(q)+'&search_simple=1&action=process&json=1&page_size=25&page='+page;
    const response=await fetch(backup,{signal:controller.signal,headers:{Accept:'application/json'}});
    if(!response.ok)throw Error('Online-Suche derzeit nicht erreichbar (HTTP '+response.status+')');
    data=await response.json();
@@ -725,9 +725,54 @@ function nutFiberEstimateOffer(product){
 function nutApplyGrams(){if(!nutPer100)return;let grams=Number(nval('nutGrams'));if(!Number.isFinite(grams)||grams<=0||grams>10000){let hint=el('nutAmountHint');if(hint)hint.textContent='Bitte eine Menge zwischen 1 und 10.000 g eingeben.';return}for(let [id,val] of Object.entries(nutPer100)){let field=el(id);if(field)field.value=Number.isFinite(Number(val))&&val!==null&&val!==undefined?String(Math.round(Number(val)*grams/100*100)/100):''}let hint=el('nutAmountHint');if(hint)hint.textContent='Automatisch berechnet für '+grams+' g (Grundlage: Nährwerte je 100 g). Fehlende Daten bleiben leer.'+(nutFiberEstimateActive?' Ballaststoffe sind ein Schätzwert.':'')}
 let nutCameraStream=null,nutCameraTimer=null,nutScanBusy=false;
 function nutScanMessage(message){let status=el('nutScanStatus');if(status)status.textContent=message}
-function nutStopCamera(){if(nutCameraTimer){clearInterval(nutCameraTimer);nutCameraTimer=null}if(nutCameraStream){nutCameraStream.getTracks().forEach(t=>t.stop());nutCameraStream=null}let video=el('nutCameraVideo');if(video)video.srcObject=null;let box=el('nutCameraBox');if(box)box.hidden=true}
+function nutStopCamera(){if(nutFallbackScanner){const scanner=nutFallbackScanner;nutFallbackScanner=null;scanner.stop().catch(()=>{}).finally(()=>{try{scanner.clear()}catch(e){}})}let holder=document.getElementById('nutFallbackCamera');if(holder)holder.hidden=true;let videoEl=el('nutCameraVideo');if(videoEl)videoEl.hidden=false;if(nutCameraTimer){clearInterval(nutCameraTimer);nutCameraTimer=null}if(nutCameraStream){nutCameraStream.getTracks().forEach(t=>t.stop());nutCameraStream=null}let video=el('nutCameraVideo');if(video)video.srcObject=null;let box=el('nutCameraBox');if(box)box.hidden=true}
 async function nutLookupBarcode(code){code=String(code||'').replace(/[\s-]/g,'');if(!/^\d{8,14}$/.test(code)){nutScanMessage('Bitte einen gültigen Barcode mit 8 bis 14 Ziffern eingeben.');return}nutStopCamera();nutScanMessage('Produkt wird gesucht …');try{let response=await fetch('https://world.openfoodfacts.org/api/v2/product/'+encodeURIComponent(code)+'.json?fields=product_name,nutriments,quantity,brands',{headers:{Accept:'application/json'}});if(!response.ok)throw Error('Netzwerk');let data=await response.json();if(data.status!==1||!data.product){nutScanMessage('Produkt nicht gefunden. Du kannst es manuell eintragen.');return}let product=data.product;nutUseProduct(product);nutScanMessage('Produkt übernommen. Menge in Gramm eingeben – die Nährwerte werden automatisch berechnet.');let grams=el('nutGrams');if(grams)grams.scrollIntoView({behavior:'smooth',block:'center'})}catch(err){nutScanMessage('Online-Abfrage nicht möglich. Bitte Internetverbindung prüfen oder manuell eintragen.')}}
-async function nutStartCamera(){if(!('BarcodeDetector' in window)){nutScanMessage('Dieser Browser unterstützt die automatische Barcode-Erkennung nicht. Bitte Barcode unten eingeben.');return}if(!navigator.mediaDevices?.getUserMedia){nutScanMessage('Kamerazugriff nicht verfügbar. Öffne die App über HTTPS oder gib den Barcode ein.');return}nutStopCamera();try{nutCameraStream=await navigator.mediaDevices.getUserMedia({audio:false,video:{facingMode:{ideal:'environment'}}});let video=el('nutCameraVideo'),box=el('nutCameraBox');if(!video||!box){nutStopCamera();return}box.hidden=false;video.srcObject=nutCameraStream;await video.play();let detector=new BarcodeDetector({formats:['ean_13','ean_8','upc_a','upc_e','itf']});nutScanMessage('Kamera auf den Barcode richten …');nutCameraTimer=setInterval(async()=>{if(nutScanBusy||!nutCameraStream||video.readyState<2)return;nutScanBusy=true;try{let found=await detector.detect(video);if(found.length){let code=found[0].rawValue;let field=el('nutBarcode');if(field)field.value=code;nutStopCamera();await nutLookupBarcode(code)}}catch(e){nutScanMessage('Barcode konnte nicht gelesen werden. Bitte erneut versuchen oder Code eingeben.')}finally{nutScanBusy=false}},450)}catch(err){nutStopCamera();nutScanMessage('Kamera konnte nicht geöffnet werden. Bitte Kameraberechtigung prüfen oder Barcode eingeben.')}}
+let nutFallbackScanner=null;
+async function nutLoadScannerLibrary(){
+ if(window.Html5Qrcode)return;
+ await new Promise((resolve,reject)=>{
+  const script=document.createElement('script');
+  script.src='https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js';
+  script.onload=resolve;script.onerror=()=>reject(new Error('Scanner-Bibliothek nicht erreichbar'));
+  document.head.appendChild(script);
+ });
+ if(!window.Html5Qrcode)throw new Error('Scanner-Bibliothek konnte nicht geladen werden');
+}
+async function nutStartCamera(){
+ nutStopCamera();
+ if(!navigator.mediaDevices?.getUserMedia){nutScanMessage('Kamera nicht verfügbar. Bitte die App über HTTPS öffnen oder Barcode eingeben.');return}
+ let box=el('nutCameraBox'),video=el('nutCameraVideo');
+ if(!box||!video)return;
+ try{
+  if('BarcodeDetector' in window){
+   nutCameraStream=await navigator.mediaDevices.getUserMedia({audio:false,video:{facingMode:{ideal:'environment'}}});
+   box.hidden=false;video.hidden=false;video.srcObject=nutCameraStream;await video.play();
+   const detector=new BarcodeDetector({formats:['ean_13','ean_8','upc_a','upc_e','itf']});
+   nutScanMessage('Kamera auf den Barcode richten …');
+   nutCameraTimer=setInterval(async()=>{
+    if(nutScanBusy||!nutCameraStream||video.readyState<2)return;
+    nutScanBusy=true;
+    try{let found=await detector.detect(video);if(found.length){let code=found[0].rawValue;let field=el('nutBarcode');if(field)field.value=code;nutStopCamera();await nutLookupBarcode(code)}}
+    catch(e){console.warn('Barcode-Erkennung:',e)}finally{nutScanBusy=false}
+   },450);
+   return;
+  }
+  nutScanMessage('Barcode-Scanner wird geladen …');
+  await nutLoadScannerLibrary();
+  box.hidden=false;video.hidden=true;
+  let holder=document.getElementById('nutFallbackCamera');
+  if(!holder){holder=document.createElement('div');holder.id='nutFallbackCamera';box.insertBefore(holder,video)}
+  holder.hidden=false;
+  nutFallbackScanner=new Html5Qrcode('nutFallbackCamera');
+  await nutFallbackScanner.start({facingMode:'environment'},{fps:10,qrbox:{width:240,height:130}},async code=>{
+   if(nutScanBusy)return;nutScanBusy=true;
+   const field=el('nutBarcode');if(field)field.value=code;
+   nutStopCamera();await nutLookupBarcode(code);nutScanBusy=false;
+  },()=>{});
+  nutScanMessage('Kamera auf den Barcode richten …');
+ }catch(err){nutStopCamera();nutScanMessage('Scanner konnte nicht gestartet werden: '+(err.message||'Kameraberechtigung prüfen')+'. Barcode kann auch eingetippt werden.')}
+}
+
 function nutRefresh(){save();renderNutrition();renderProfile();if(tab==='today')render()}
 document.addEventListener('toggle',e=>{if(e.target.id==='nutEntryForm'&&!e.target.open)nutStopCamera()},true);document.addEventListener('click',e=>{if(e.target.closest('[data-tab]'))nutStopCamera()},true);document.addEventListener('change',e=>{let x=e.target;if(x.id==='nutDate'){nutDate=x.value;renderNutrition();nutPer100=null}if(x.name==='nutDietType'){nut.dietTypes[nutDate]=x.value;nutRefresh()}if(x.dataset.shopCheck!==undefined){nut.shopping[Number(x.dataset.shopCheck)].done=x.checked;save()}});
 document.addEventListener('click',e=>{const b=e.target.closest('button[data-well-field]');if(!b)return;const id=b.dataset.wellField,sel=el(id);if(!sel)return;sel.value=b.dataset.wellValue;const group=b.closest('.well-choices');group?.querySelectorAll('.well-choice').forEach(x=>{const on=x===b;x.classList.toggle('selected',on);x.setAttribute('aria-pressed',String(on))})});
