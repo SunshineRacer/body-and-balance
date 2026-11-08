@@ -1,0 +1,10 @@
+Body & Balance mit BLS 4.0
+
+Die bisherige App wurde um eine lokale BLS-Lebensmittelsuche erweitert.
+Die Suchergebnisse werden in das bestehende Mahlzeitenformular übernommen.
+Der Barcode-Scanner und die Barcode-Produktsuche bleiben unverändert und benötigen ggf. weiterhin Open Food Facts.
+Auch die bisherige Rezept-Zutatensuche ist noch nicht auf BLS umgestellt.
+
+Zum Testen den gesamten Ordner in VS Code öffnen und index.html mit Live Server starten.
+Zum Veröffentlichen alle Dateien einschließlich bls-daten.json auf GitHub hochladen.
+Vor Änderungen an der veröffentlichten App bitte eine Datensicherung in der App erstellen.
