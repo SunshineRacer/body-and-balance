@@ -1,0 +1,8 @@
+Body & Balance – Neustart am Montag, 16. November 2026
+
+Das 12-Wochen-Programm beginnt mit Woche 1 am 16.11.2026.
+Vorhandene Einträge bleiben unter ihren bisherigen Kalenderdaten gespeichert.
+Die bisherige Standard-Startzeit 09.11.2026 wird beim ersten Öffnen einmalig angepasst.
+Ein bereits individuell geändertes Startdatum wird nicht überschrieben.
+In Mehr > Einstellungen kann das Startdatum weiterhin angepasst werden.
+Vor dem Aktualisieren bitte die vorhandene Datensicherung aufbewahren.

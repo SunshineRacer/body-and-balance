@@ -1,0 +1,9 @@
+Body & Balance – Krankheitspause
+
+Unter „Heute“ den Bereich „Krankheitspause“ öffnen, Start- und Enddatum wählen und „Krankheitspause eintragen“ drücken. Zum Rückgängigmachen denselben Zeitraum wählen und „Krankheitspause entfernen“ drücken.
+
+Die Tage werden unter state.sickDays in der bestehenden lokalen App-Sicherung gespeichert. Die Rückenziele morgens, mittags und abends sinken pro Krankheitstag von regulär 5 Tagen um einen Tag (mindestens 0). Bei 0 Tagen wird „Krankheitsbedingt pausiert“ statt „Wochenziel erreicht“ angezeigt.
+
+Die Trainingseinträge bleiben erhalten. Krankheitstage werden in der Trainingsübersicht gekennzeichnet und nicht als offene Trainingstage in die Wochenprozentzahl eingerechnet.
+
+Vor dem Update eine Datensicherung auf dem iPhone exportieren. Die App auf derselben Webadresse aktualisieren, damit bestehende Daten verfügbar bleiben.
