@@ -5,22 +5,22 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Enge Kniebeugen",
-          "detail": "2 × 15"
+          "detail": "2 × 12"
         },
         {
           "name": "Klassische Kniebeugen",
-          "detail": "2 × 15"
+          "detail": "2 × 12"
         },
         {
           "name": "Breite Kniebeugen",
-          "detail": "2 × 15"
+          "detail": "2 × 12"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "2 × 20 je Bein"
         },
         {
@@ -46,51 +46,51 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "2 × 12"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys flach",
-          "detail": "2 × 12"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "2 × 12"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Reverse Flys",
-          "detail": "2 × 12"
+          "detail": "2 × 8"
         },
         {
           "name": "Bizepscurls mit Kurzhanteln",
-          "detail": "2 × 15"
+          "detail": "2 × 8"
         },
         {
           "name": "Hammer Curls",
-          "detail": "2 × 15"
+          "detail": "2 × 8"
         },
         {
           "name": "Seitheben mit Kurzhanteln",
-          "detail": "2 × 12"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 15"
+          "detail": "2 × 8"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "2 × 15 je Seite"
+          "detail": "2 × 10–12 je Seite"
         },
         {
           "name": "Schulterdrücken über Kopf",
-          "detail": "2 × 12"
+          "detail": "2 × 8"
         },
         {
           "name": "Liegestütze",
-          "detail": "2 × 10"
+          "detail": "2 × 6–8"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -144,14 +144,14 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen",
           "detail": "2 × 15"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "2 × 15 je Bein"
         },
         {
@@ -168,7 +168,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 30 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -180,11 +180,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "2 × 12"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 15"
+          "detail": "2 × 8"
         },
         {
           "name": "Wadenheben",
@@ -258,23 +258,23 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Enge Kniebeugen",
-          "detail": "2 × 17"
+          "detail": "2 × 12"
         },
         {
           "name": "Klassische Kniebeugen",
-          "detail": "2 × 17"
+          "detail": "2 × 12"
         },
         {
           "name": "Breite Kniebeugen",
-          "detail": "2 × 17"
+          "detail": "2 × 12"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
-          "detail": "2 × 22 je Bein"
+          "name": "Beinstrecker Hantelbank einbeinig",
+          "detail": "2 × 20 je Bein"
         },
         {
           "name": "Beinbeugen im Stehen",
@@ -299,51 +299,51 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "2 × 14"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys flach",
-          "detail": "2 × 14"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "2 × 14"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Reverse Flys",
-          "detail": "2 × 14"
+          "detail": "2 × 8"
         },
         {
           "name": "Bizepscurls mit Kurzhanteln",
-          "detail": "2 × 17"
+          "detail": "2 × 8"
         },
         {
           "name": "Hammer Curls",
-          "detail": "2 × 17"
+          "detail": "2 × 8"
         },
         {
           "name": "Seitheben mit Kurzhanteln",
-          "detail": "2 × 14"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 17"
+          "detail": "2 × 8"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "2 × 17 je Seite"
+          "detail": "2 × 10–12 je Seite"
         },
         {
           "name": "Schulterdrücken über Kopf",
-          "detail": "2 × 14"
+          "detail": "2 × 8"
         },
         {
           "name": "Liegestütze",
-          "detail": "2 × 12"
+          "detail": "2 × 6–8"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -397,15 +397,15 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen",
           "detail": "2 × 17"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
-          "detail": "2 × 17 je Bein"
+          "name": "Beinstrecker Hantelbank einbeinig",
+          "detail": "2 × 15 je Bein"
         },
         {
           "name": "Beinbeugen im Stehen",
@@ -421,7 +421,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 30 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -433,11 +433,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "2 × 14"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 17"
+          "detail": "2 × 8"
         },
         {
           "name": "Wadenheben",
@@ -511,23 +511,23 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Enge Kniebeugen",
-          "detail": "2 × 19"
+          "detail": "2 × 12"
         },
         {
           "name": "Klassische Kniebeugen",
-          "detail": "2 × 19"
+          "detail": "2 × 12"
         },
         {
           "name": "Breite Kniebeugen",
-          "detail": "2 × 19"
+          "detail": "2 × 12"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
-          "detail": "2 × 24 je Bein"
+          "name": "Beinstrecker Hantelbank einbeinig",
+          "detail": "2 × 20 je Bein"
         },
         {
           "name": "Beinbeugen im Stehen",
@@ -552,51 +552,51 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "2 × 16"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys flach",
-          "detail": "2 × 16"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "2 × 16"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Reverse Flys",
-          "detail": "2 × 16"
+          "detail": "2 × 8"
         },
         {
           "name": "Bizepscurls mit Kurzhanteln",
-          "detail": "2 × 19"
+          "detail": "2 × 8"
         },
         {
           "name": "Hammer Curls",
-          "detail": "2 × 19"
+          "detail": "2 × 8"
         },
         {
           "name": "Seitheben mit Kurzhanteln",
-          "detail": "2 × 16"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 19"
+          "detail": "2 × 8"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "2 × 19 je Seite"
+          "detail": "2 × 10–12 je Seite"
         },
         {
           "name": "Schulterdrücken über Kopf",
-          "detail": "2 × 16"
+          "detail": "2 × 8"
         },
         {
           "name": "Liegestütze",
-          "detail": "2 × 14"
+          "detail": "2 × 6–8"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -650,15 +650,15 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen",
           "detail": "2 × 19"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
-          "detail": "2 × 19 je Bein"
+          "name": "Beinstrecker Hantelbank einbeinig",
+          "detail": "2 × 15 je Bein"
         },
         {
           "name": "Beinbeugen im Stehen",
@@ -674,7 +674,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 30 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -686,11 +686,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "2 × 16"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 19"
+          "detail": "2 × 8"
         },
         {
           "name": "Wadenheben",
@@ -764,23 +764,23 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Enge Kniebeugen",
-          "detail": "2 × 21"
+          "detail": "2 × 12"
         },
         {
           "name": "Klassische Kniebeugen",
-          "detail": "2 × 21"
+          "detail": "2 × 12"
         },
         {
           "name": "Breite Kniebeugen",
-          "detail": "2 × 21"
+          "detail": "2 × 12"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
-          "detail": "2 × 26 je Bein"
+          "name": "Beinstrecker Hantelbank einbeinig",
+          "detail": "2 × 20 je Bein"
         },
         {
           "name": "Beinbeugen im Stehen",
@@ -805,51 +805,51 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "2 × 18"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys flach",
-          "detail": "2 × 18"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "2 × 18"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Reverse Flys",
-          "detail": "2 × 18"
+          "detail": "2 × 8"
         },
         {
           "name": "Bizepscurls mit Kurzhanteln",
-          "detail": "2 × 21"
+          "detail": "2 × 8"
         },
         {
           "name": "Hammer Curls",
-          "detail": "2 × 21"
+          "detail": "2 × 8"
         },
         {
           "name": "Seitheben mit Kurzhanteln",
-          "detail": "2 × 18"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 21"
+          "detail": "2 × 8"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "2 × 21 je Seite"
+          "detail": "2 × 10–12 je Seite"
         },
         {
           "name": "Schulterdrücken über Kopf",
-          "detail": "2 × 18"
+          "detail": "2 × 8"
         },
         {
           "name": "Liegestütze",
-          "detail": "2 × 16"
+          "detail": "2 × 6–8"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -903,15 +903,15 @@
       "items": [
         {
           "name": "Aufwärmen: Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen",
           "detail": "2 × 21"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
-          "detail": "2 × 21 je Bein"
+          "name": "Beinstrecker Hantelbank einbeinig",
+          "detail": "2 × 15 je Bein"
         },
         {
           "name": "Beinbeugen im Stehen",
@@ -927,7 +927,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 30 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -939,11 +939,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "2 × 18"
+          "detail": "2 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "2 × 21"
+          "detail": "2 × 8"
         },
         {
           "name": "Wadenheben",
@@ -1017,18 +1017,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 15"
+          "detail": "2 × 14"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 15"
+          "detail": "2 × 14"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 20 je Bein"
         },
         {
@@ -1062,7 +1062,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -1070,43 +1070,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 12"
+          "detail": "2 × 10–12"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 12"
+          "detail": "2 × 10–12"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 15"
+          "detail": "2 × 10"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 12 je Arm"
+          "detail": "2 × 10"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 15"
+          "detail": "2 × 10"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 15"
+          "detail": "2 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 15"
+          "detail": "2 × 10"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 15 je Seite"
+          "detail": "2 × 12 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 12"
+          "detail": "2 × 10"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 12"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -1160,14 +1160,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 15"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 20 je Bein"
         },
         {
@@ -1184,7 +1184,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 35 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -1196,11 +1196,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 12"
+          "detail": "2 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 15"
+          "detail": "2 × 10"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",
@@ -1310,18 +1310,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 17"
+          "detail": "2 × 14"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 17"
+          "detail": "2 × 14"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 22 je Bein"
         },
         {
@@ -1355,7 +1355,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -1363,43 +1363,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 14"
+          "detail": "2 × 10–12"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 14"
+          "detail": "2 × 10–12"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 17"
+          "detail": "2 × 10"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 14 je Arm"
+          "detail": "2 × 10"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 17"
+          "detail": "2 × 10"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 17"
+          "detail": "2 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 17"
+          "detail": "2 × 10"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 17 je Seite"
+          "detail": "2 × 12 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 14"
+          "detail": "2 × 10"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 14"
+          "detail": "2 × 8–10"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -1453,14 +1453,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 17"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 22 je Bein"
         },
         {
@@ -1477,7 +1477,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 35 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -1489,11 +1489,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 14"
+          "detail": "2 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 17"
+          "detail": "2 × 10"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",
@@ -1603,18 +1603,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 19"
+          "detail": "2 × 15"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 19"
+          "detail": "2 × 15"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 24 je Bein"
         },
         {
@@ -1648,7 +1648,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -1656,43 +1656,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 16"
+          "detail": "2 × 12"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 16"
+          "detail": "2 × 12"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 19"
+          "detail": "2 × 12"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 16 je Arm"
+          "detail": "2 × 12"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 19"
+          "detail": "2 × 12"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 19"
+          "detail": "2 × 12"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 19"
+          "detail": "2 × 12"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 19 je Seite"
+          "detail": "2 × 14 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 16"
+          "detail": "2 × 12"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 16"
+          "detail": "2 × 10"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -1746,14 +1746,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 19"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 24 je Bein"
         },
         {
@@ -1770,7 +1770,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 40 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -1782,11 +1782,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 16"
+          "detail": "2 × 12"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 19"
+          "detail": "2 × 12"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",
@@ -1896,18 +1896,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 21"
+          "detail": "2 × 15"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 21"
+          "detail": "2 × 15"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 26 je Bein"
         },
         {
@@ -1941,7 +1941,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -1949,43 +1949,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 18"
+          "detail": "2 × 12"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 18"
+          "detail": "2 × 12"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 21"
+          "detail": "2 × 12"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 18 je Arm"
+          "detail": "2 × 12"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 21"
+          "detail": "2 × 12"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 21"
+          "detail": "2 × 12"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 21"
+          "detail": "2 × 12"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 21 je Seite"
+          "detail": "2 × 14 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 18"
+          "detail": "2 × 12"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 18"
+          "detail": "2 × 10"
         },
         {
           "name": "Lockern und mobilisieren",
@@ -2039,14 +2039,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 21"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 26 je Bein"
         },
         {
@@ -2063,7 +2063,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 30 Sek."
+          "detail": "2 × 40 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -2075,11 +2075,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 18"
+          "detail": "2 × 12"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 21"
+          "detail": "2 × 12"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",
@@ -2189,18 +2189,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 15"
+          "detail": "3 × 12"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 15"
+          "detail": "3 × 12"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 20 je Bein"
         },
         {
@@ -2238,7 +2238,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -2246,43 +2246,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 12"
+          "detail": "3 × 10"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 12"
+          "detail": "3 × 10"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 15"
+          "detail": "3 × 8"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 12 je Arm"
+          "detail": "3 × 8"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 15"
+          "detail": "3 × 8"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 15"
+          "detail": "3 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 15"
+          "detail": "3 × 8"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 15 je Seite"
+          "detail": "3 × 10 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 12"
+          "detail": "3 × 8"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 12"
+          "detail": "3 × 6–8"
         },
         {
           "name": "Frontheben mit Kurzhanteln",
@@ -2344,14 +2344,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 15"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 25 je Bein"
         },
         {
@@ -2368,7 +2368,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 40 Sek."
+          "detail": "3 × 30 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -2380,11 +2380,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 12"
+          "detail": "3 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 15"
+          "detail": "3 × 8"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",
@@ -2506,18 +2506,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 17"
+          "detail": "3 × 12"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 17"
+          "detail": "3 × 12"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 22 je Bein"
         },
         {
@@ -2555,7 +2555,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -2563,43 +2563,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 14"
+          "detail": "3 × 10"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 14"
+          "detail": "3 × 10"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 17"
+          "detail": "3 × 8"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 14 je Arm"
+          "detail": "3 × 8"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 17"
+          "detail": "3 × 8"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 17"
+          "detail": "3 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 17"
+          "detail": "3 × 8"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 17 je Seite"
+          "detail": "3 × 10 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 14"
+          "detail": "3 × 8"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 14"
+          "detail": "3 × 6–8"
         },
         {
           "name": "Frontheben mit Kurzhanteln",
@@ -2661,14 +2661,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 17"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 27 je Bein"
         },
         {
@@ -2685,7 +2685,7 @@
         },
         {
           "name": "Wandsitz",
-          "detail": "3 × 40 Sek."
+          "detail": "3 × 30 Sek."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -2697,11 +2697,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 14"
+          "detail": "3 × 8"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 17"
+          "detail": "3 × 8"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",
@@ -2823,18 +2823,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 19"
+          "detail": "3 × 15"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 19"
+          "detail": "3 × 15"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 24 je Bein"
         },
         {
@@ -2872,7 +2872,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -2880,43 +2880,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 16"
+          "detail": "3 × 12"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 16"
+          "detail": "3 × 12"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 19"
+          "detail": "3 × 10"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 16 je Arm"
+          "detail": "3 × 10"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 19"
+          "detail": "3 × 10"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 19"
+          "detail": "3 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 19"
+          "detail": "3 × 10"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 19 je Seite"
+          "detail": "3 × 12 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 16"
+          "detail": "3 × 10"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 16"
+          "detail": "3 × 8–10"
         },
         {
           "name": "Frontheben mit Kurzhanteln",
@@ -2978,14 +2978,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 19"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 29 je Bein"
         },
         {
@@ -3014,11 +3014,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 16"
+          "detail": "3 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 19"
+          "detail": "3 × 10"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",
@@ -3140,18 +3140,18 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
-          "detail": "3 × 21"
+          "detail": "3 × 15"
         },
         {
           "name": "Sumo-Kniebeugen mit Kurzhantel",
-          "detail": "3 × 21"
+          "detail": "3 × 15"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 26 je Bein"
         },
         {
@@ -3189,7 +3189,7 @@
       "items": [
         {
           "name": "Arme/Schultern lockern, BWS mobilisieren",
-          "detail": "5 Min."
+          "detail": "2 Min."
         },
         {
           "name": "Kurzhantel-Bankdrücken",
@@ -3197,43 +3197,43 @@
         },
         {
           "name": "Kurzhantel-Flys positiv",
-          "detail": "3 × 18"
+          "detail": "3 × 12"
         },
         {
           "name": "Kurzhantel-Flys negativ",
-          "detail": "3 × 18"
+          "detail": "3 × 12"
         },
         {
           "name": "Reverse Flys",
-          "detail": "3 × 21"
+          "detail": "3 × 10"
         },
         {
           "name": "Konzentrationscurls",
-          "detail": "3 × 18 je Arm"
+          "detail": "3 × 10"
         },
         {
           "name": "Hammer Curls",
-          "detail": "3 × 21"
+          "detail": "3 × 10"
         },
         {
           "name": "Kurzhantel-Seitheben",
-          "detail": "3 × 21"
+          "detail": "3 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 21"
+          "detail": "3 × 10"
         },
         {
           "name": "Einarmiges Kurzhantelrudern",
-          "detail": "3 × 21 je Seite"
+          "detail": "3 × 12 je Seite"
         },
         {
           "name": "Kurzhantel-Schulterdrücken über Kopf",
-          "detail": "3 × 18"
+          "detail": "3 × 10"
         },
         {
           "name": "Liegestütze",
-          "detail": "3 × 18"
+          "detail": "3 × 8–10"
         },
         {
           "name": "Frontheben mit Kurzhanteln",
@@ -3295,14 +3295,14 @@
       "items": [
         {
           "name": "Laufen auf der Stelle",
-          "detail": "5 Min."
+          "detail": "3–5 Min."
         },
         {
           "name": "Kniebeugen mit Kurzhanteln",
           "detail": "3 × 21"
         },
         {
-          "name": "Einbeiniges Beinstrecken",
+          "name": "Beinstrecker Hantelbank einbeinig",
           "detail": "3 × 31 je Bein"
         },
         {
@@ -3331,11 +3331,11 @@
         },
         {
           "name": "Kurzhantel-Schulterdrücken",
-          "detail": "3 × 18"
+          "detail": "3 × 10"
         },
         {
           "name": "Trizeps-Kickbacks",
-          "detail": "3 × 21"
+          "detail": "3 × 10"
         },
         {
           "name": "Wadenheben mit Kurzhanteln",

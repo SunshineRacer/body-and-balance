@@ -1,0 +1,8 @@
+Body & Balance – Rezeptverbindung
+
+Die 14 bereits bebilderten Rezepte aus Meine vegane Küche V22 sind als erste Vorschau eingebunden.
+Im Ernährungsbereich: Lebensmittel hinzufügen > Auswahl: Rezepte.
+Rezepte aus einer neueren Kochbuch-App können über deren rezepte.json importiert werden.
+Bei Nutzung über einen Webserver lässt sich kochbuch-rezepte.json aktualisieren.
+Automatische Synchronisierung zwischen Geräten oder GitHub-Repositories ist noch nicht eingerichtet.
+Nährwerte stammen aus dem Rezepttext und sind nur Näherungswerte pro angegebener Portion.

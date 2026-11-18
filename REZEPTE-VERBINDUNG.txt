@@ -1,0 +1,1 @@
+Meine Rezepte: 356 Einträge aus Meine vegane Küche V22 eingebunden. Import neuer rezepte.json über Meine Rezepte. Keine automatische Synchronisierung zwischen Apps eingerichtet. Bei Rezepten Nährwerte/Bezugsportion prüfen. Lokale Daten im Browser vor Wechsel sichern.
