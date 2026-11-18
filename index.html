@@ -826,7 +826,7 @@ nut.dietTypes ||= {};
 function nutRenderHome(){
  let box=document.querySelector('#today');if(!box)return;
  let date=chosen, t=nutTotal(date),water=(nut.drinks[date]||[]).reduce((a,x)=>a+nnum(x.ml),0);
- let diet=nut.dietTypes?.[date], dietName=diet==='vegan'?'🌱 Vegan':diet==='vegetarian'?'🥗 Vegetarisch':'Noch nicht ausgewählt';
+ let diet=nut.dietTypes?.[date]||(nut.dailyGoals?.[date]?.vegan?'vegan':nut.dailyGoals?.[date]?.vegetarian?'vegetarian':null), dietName=diet==='vegan'?'🌱 Vegan':diet==='vegetarian'?'🥗 Vegetarisch':'Noch nicht ausgewählt';
  let counts={vegan:0,vegetarian:0};
  const end=fromDate(date);
  for(let i=0;i<7;i++){
@@ -1128,7 +1128,18 @@ async function nutStartCamera(){
 }
 
 function nutRefresh(){save();renderNutrition();renderProfile();if(tab==='today')render()}
-document.addEventListener('change',e=>{const key=e.target?.dataset?.nutGoal;if(!key)return;nut.dailyGoals ||= {};nut.dailyGoals[nutDate] ||= {};nut.dailyGoals[nutDate][key]=e.target.checked;save();renderNutrition();});
+document.addEventListener('change',e=>{const key=e.target?.dataset?.nutGoal;if(!key)return;nut.dailyGoals ||= {};nut.dailyGoals[nutDate] ||= {};nut.dailyGoals[nutDate][key]=e.target.checked;
+if(key==='vegan'||key==='vegetarian'){
+ nut.dietTypes ||= {};
+ if(e.target.checked){
+  nut.dietTypes[nutDate]=key;
+  const other=key==='vegan'?'vegetarian':'vegan';
+  nut.dailyGoals[nutDate][other]=false;
+ }else if(nut.dietTypes[nutDate]===key){
+  delete nut.dietTypes[nutDate];
+ }
+}
+save();renderNutrition();if(tab==='today')render();});
 document.addEventListener('toggle',e=>{if(e.target.id==='nutEntryForm'&&!e.target.open)nutStopCamera()},true);document.addEventListener('click',e=>{if(e.target.closest('[data-tab]'))nutStopCamera()},true);document.addEventListener('change',e=>{let x=e.target;if(x.id==='nutDate'){nutDate=x.value;renderNutrition();nutPer100=null}if(x.name==='nutDietType'){nut.dietTypes[nutDate]=x.value;nutRefresh()}if(x.dataset.shopCheck!==undefined){nut.shopping[Number(x.dataset.shopCheck)].done=x.checked;save()}});
 document.addEventListener('click',e=>{const b=e.target.closest('button[data-well-field]');if(!b)return;const id=b.dataset.wellField,sel=el(id);if(!sel)return;sel.value=b.dataset.wellValue;const group=b.closest('.well-choices');group?.querySelectorAll('.well-choice').forEach(x=>{const on=x===b;x.classList.toggle('selected',on);x.setAttribute('aria-pressed',String(on))})});
 document.addEventListener('change',e=>{if(e.target.id==='bbFoodKind'||e.target.id==='bbFoodOrder')nutFoodPickerRender()});
